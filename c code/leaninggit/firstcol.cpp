@@ -1,1 +1,0 @@
-def avg(list1) :
